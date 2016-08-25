@@ -1,0 +1,39 @@
+{
+  "bugs": {
+    "url": "https://github.com/ipfs/go-key"
+  },
+  "gx": {
+    "dvcsimport": "github.com/ipfs/go-key",
+    "goversion": "1.5.2"
+  },
+  "gxDependencies": [
+    {
+      "author": "jbenet",
+      "hash": "QmTxLSvdhwg68WJimdS6icLPhZi28aTp6b7uihC2Yb47Xk",
+      "name": "go-datastore",
+      "version": "0.2.0"
+    },
+    {
+      "hash": "QmYf7ng2hG5XBtJA3tN34DQ2GUN5HNksEw1rLDkmr6vGku",
+      "name": "go-multihash",
+      "version": "0.0.0"
+    },
+    {
+      "author": "whyrusleeping",
+      "hash": "Qmb1DA2A9LS2wR4FFweB4uEDomFsdmnw1VLawLE1yQzudj",
+      "name": "base32",
+      "version": "0.0.0"
+    },
+    {
+      "author": "jbenet",
+      "hash": "QmT8rehPR3F6bmwL6zjUN8XpiDBFFpMP2myPdC6ApsWfJf",
+      "name": "base58",
+      "version": "0.0.0"
+    }
+  ],
+  "gxVersion": "0.4.0",
+  "language": "go",
+  "license": "MIT",
+  "name": "go-key",
+  "version": "0.0.0"
+}
