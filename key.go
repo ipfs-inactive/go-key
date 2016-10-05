@@ -6,7 +6,7 @@ import (
 
 	ds "github.com/ipfs/go-datastore"
 	b58 "github.com/jbenet/go-base58"
-	mh "github.com/jbenet/go-multihash"
+	mh "github.com/multiformats/go-multihash"
 	base32 "github.com/whyrusleeping/base32"
 )
 
