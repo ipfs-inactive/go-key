@@ -9,9 +9,9 @@
   "gxDependencies": [
     {
       "author": "jbenet",
-      "hash": "QmbzuUusHqaLLoNTDEVLcSF6vZDHZDLPC7p4bztRvvkXxU",
+      "hash": "QmfBmdzssuoW5qFS3EdhoV66H33LAqwg2a4gNBX6HUhHpp",
       "name": "go-datastore",
-      "version": "1.0.0"
+      "version": "1.2.0"
     },
     {
       "hash": "QmYDds3421prZgqKbLpEK7T9Aa2eVdQ7o3YarX1LVLdP2J",
@@ -36,6 +36,6 @@
   "license": "MIT",
   "name": "go-key",
   "releaseCmd": "git commit -a -m \"gx publish $VERSION\"",
-  "version": "1.0.3"
+  "version": "1.1.0"
 }
 
